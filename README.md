@@ -8,7 +8,7 @@ Join AWS and Anthropic to learn how Claude Managed Agents and AWS Lambda MicroVM
 
 ## Slides
 
-- [Download slides]()
+- [Download slides](./2026-webinar-aws-anthropic-claude-managed-agents-with-lambda-microvms.pdf)
 
 ## Useful resources
 
